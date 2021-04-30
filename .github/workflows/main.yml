@@ -17,4 +17,4 @@ jobs:
         node-version: '14.15.4'
         
     - run: yarn install
-    - run: tarn test
+    - run: yarn test
